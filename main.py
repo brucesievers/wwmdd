@@ -4,6 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import sys
 
+# Here is my addition - Bruce
 
 START_SEASON = '2020-01-01'
 DB_FILENAME = "nba.sqlite"
